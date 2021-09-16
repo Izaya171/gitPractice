@@ -1,2 +1,4 @@
 git init - initializes repo
 git status - checks status of repo
+git add - adds files ready to commit
+git commmit -m "commit message" commits init
